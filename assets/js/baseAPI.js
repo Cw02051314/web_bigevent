@@ -16,5 +16,5 @@
                 location.href = '/login.html'
             }
         }
-        
+
     })
